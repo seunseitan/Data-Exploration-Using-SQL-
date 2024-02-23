@@ -1,1 +1,1 @@
-# Data-Exploration-Using-SQL-
+This repository is focused on conducting exploratory data analysis (EDA) using SQL. It contains SQL queries and scripts designed to explore and analyze various aspects of the dataset. The EDA process involves descriptive analytics on the data, aiming to derive insights and inform further analysis or decision-making.
